@@ -1,0 +1,58 @@
+.r {
+  background: blue;
+  width: 100px;
+  height: 100px;
+}
+
+.rr {
+  background: red;
+  width: 100px;
+  height: 100px;
+}
+
+.light {
+  cursor: pointer;
+}
+
+.contenedor {
+  padding-top: 10px;
+  margin: 0 auto;
+  background: black;
+  height: 300px;
+  width: 150px;
+  border-radius: 10px;
+}
+
+.colorRojo {
+  width: 80px;
+  height: 80px;
+  background: red;
+  border-radius: 100px;
+  border: 1px solid #fff;
+  margin-bottom: 20px;
+  margin-left: 35px;
+}
+
+.colorAmarillo {
+  width: 80px;
+  height: 80px;
+  border-radius: 100px;
+  border: 1px solid #fff;
+  margin-left: 35px;
+  margin-bottom: 20px;
+}
+
+.colorVerde {
+  width: 80px;
+  height: 80px;
+  border-radius: 100px;
+  border: 1px solid #fff;
+  margin-left: 35px;
+}
+
+.fierro {
+  background: black;
+  margin: 0 auto;
+  width: 20px;
+  height: 200px;
+}
